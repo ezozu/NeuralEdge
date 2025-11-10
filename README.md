@@ -1,6 +1,6 @@
 # NeuralEdge: Quantized Forex Binary Options Trading with Reinforcement Learning
 
-A cutting-edge platform for developing and deploying quantized reinforcement learning agents to trade Forex binary options, leveraging high-frequency tick data and a custom backtesting infrastructure.
+A cutting-edge platform for developing and deploying quantized reinforcement learning agents to trade Forex binary options, leveraging high-frequency tick data and a custom backtesting infrastructure
 
 NeuralEdge is designed to bridge the gap between academic research in reinforcement learning and practical, real-world application in the volatile Forex market. Our primary goal is to empower quantitative traders and machine learning engineers with the tools necessary to build, train, and deploy sophisticated trading strategies that can capitalize on fleeting market opportunities. By employing a combination of deep reinforcement learning, quantization techniques, and a meticulously crafted backtesting environment, NeuralEdge offers a robust and efficient solution for automated Forex binary options trading.
 
